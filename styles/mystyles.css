@@ -1,0 +1,69 @@
+.middle {
+    background-color: rgb(23, 23, 23);
+    text-align: center;
+}
+
+.middleabout{
+    color: white;
+    background-color:rgb(23, 23, 23) ;
+    text-align: left;
+    border-top: solid 10px rgb(23, 23, 23) ;
+}
+
+a{
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   color: white;
+}
+
+
+span{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:  rgb(23, 23, 23);
+}
+
+span:hover{
+    color: #29ae46;
+}
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h2 {
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h2:hover {
+    color: #29ae46;
+}
+
+h4 {
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h3{
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h4:hover {
+    color: #29ae46;
+}
+
+a:hover{
+    color: #29ae46;
+}
+
+.byulink{
+    padding: 10px;
+    border: solid;
+    color: white;
+    text-align: center;
+}
+
+.center {
+    left: 200px;
+    width: 50%;
+}
